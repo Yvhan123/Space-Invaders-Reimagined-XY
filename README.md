@@ -1,6 +1,6 @@
 # Space Invaders Reimagined XY
 
-A retro-inspired **Space Invaders** arcade game built with Python and **Pygame (`pygame-ce`)**, featuring:
+A retro-inspired and now modernized **Space Invaders** arcade game built with Python and **Pygame (`pygame-ce`)**, featuring:
 - **Pixelated Green X-Wing Starfighter** with full 4-directional movement (`X` & `Y` axes)
 - **Vibrant Multi-Colored Pixel-Art Aliens** with randomized spawning and unpredictable flight patterns (`weaver`, `zigzag`, `swooper`)
 - **Procedural 8-Bit Audio & Chiptune Soundtrack** synthesized in real time (zero external audio files needed)
